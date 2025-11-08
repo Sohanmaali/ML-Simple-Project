@@ -1,0 +1,482 @@
+[
+    {
+        "name": "TCS",
+        "rating": "3.4",
+        "reviews": "1.1L",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vdGNzLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Accenture",
+        "rating": "3.7",
+        "reviews": "67.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYWNjZW50dXJlLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Wipro",
+        "rating": "3.7",
+        "reviews": "60.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vd2lwcm8tb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Cognizant",
+        "rating": "3.7",
+        "reviews": "57.6k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vY29nbml6YW50LW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Capgemini",
+        "rating": "3.7",
+        "reviews": "49.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vY2FwZ2VtaW5pLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "HDFC Bank",
+        "rating": "3.8",
+        "reviews": "47.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaGRmYy1iYW5rLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Infosys",
+        "rating": "3.5",
+        "reviews": "45.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaW5mb3N5cy1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "ICICI Bank",
+        "rating": "4.0",
+        "reviews": "43.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaWNpY2ktYmFuay1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "HCLTech",
+        "rating": "3.4",
+        "reviews": "42.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaGNsLXRlY2hub2xvZ2llcy1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Tech Mahindra",
+        "rating": "3.4",
+        "reviews": "40.6k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vdGVjaC1tYWhpbmRyYS1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Genpact",
+        "rating": "3.7",
+        "reviews": "38.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZ2VucGFjdC1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Teleperformance",
+        "rating": "3.8",
+        "reviews": "34.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vdGVsZXBlcmZvcm1hbmNlLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Axis Bank",
+        "rating": "3.7",
+        "reviews": "30.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYXhpcy1iYW5rLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Concentrix Corporation",
+        "rating": "3.6",
+        "reviews": "30.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vY29uY2VudHJpeC1jb3Jwb3JhdGlvbi1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Jio",
+        "rating": "4.3",
+        "reviews": "29.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vamlvLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Amazon",
+        "rating": "4.0",
+        "reviews": "29.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYW1hem9uLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "iEnergizer",
+        "rating": "4.7",
+        "reviews": "26.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaWVuZXJnaXplci1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Reliance Retail",
+        "rating": "3.9",
+        "reviews": "25.9k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vcmVsaWFuY2UtcmV0YWlsLWxpbWl0ZWQtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "IBM",
+        "rating": "3.9",
+        "reviews": "24.6k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaWJtLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "LTIMindtree",
+        "rating": "3.7",
+        "reviews": "24.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vbHRpbWluZHRyZWUtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "HDB Financial Services",
+        "rating": "3.9",
+        "reviews": "23.9k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaGRiLWZpbmFuY2lhbC1zZXJ2aWNlcy1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Larsen & Toubro Limited",
+        "rating": "3.9",
+        "reviews": "22k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vbGFyc2VuLWFuZC10b3Vicm8tbGltaXRlZC1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Deloitte",
+        "rating": "3.7",
+        "reviews": "21.3k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZGVsb2l0dGUtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "rating": "3.6",
+        "reviews": "20.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28va290YWstbWFoaW5kcmEtYmFuay1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Reliance Industries",
+        "rating": "4.0",
+        "reviews": "18.9k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vcmVsaWFuY2Utb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Vodafone Idea",
+        "rating": "4.0",
+        "reviews": "16.9k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vdm9kYWZvbmUtaWRlYS1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "BYJU'S",
+        "rating": "3.1",
+        "reviews": "16.6k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYnlqdXMtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Bharti Airtel",
+        "rating": "3.9",
+        "reviews": "16.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYmhhcnRpLWFpcnRlbC1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "WNS",
+        "rating": "3.3",
+        "reviews": "14.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vd25zLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Tata Motors",
+        "rating": "4.1",
+        "reviews": "13.3k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vdGF0YS1tb3RvcnMtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "AU Small Finance Bank",
+        "rating": "4.1",
+        "reviews": "13.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYXUtc21hbGwtZmluYW5jZS1iYW5rLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "IndusInd Bank",
+        "rating": "3.4",
+        "reviews": "13.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaW5kdXNpbmQtYmFuay1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Ernst & Young",
+        "rating": "3.4",
+        "reviews": "13.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZXJuc3QteW91bmctb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "IDFC FIRST Bank",
+        "rating": "3.9",
+        "reviews": "13k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaWRmYy1maXJzdC1iYW5rLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Flipkart",
+        "rating": "3.9",
+        "reviews": "12.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZmxpcGthcnQtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Bajaj Finserv",
+        "rating": "4.0",
+        "reviews": "11.6k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYmFqYWotZmluc2Vydi1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "DXC Technology",
+        "rating": "3.6",
+        "reviews": "11.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZHhjLXRlY2hub2xvZ3ktb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "PwC",
+        "rating": "3.3",
+        "reviews": "11.3k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vcHdjLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "rating": "4.1",
+        "reviews": "11.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vbWFoaW5kcmEtYW5kLW1haGluZHJhLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Infosys BPM",
+        "rating": "3.5",
+        "reviews": "11.3k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaW5mb3N5cy1icG0tb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "HDFC Life",
+        "rating": "3.9",
+        "reviews": "11.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaGRmYy1saWZlLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Conneqt Business Solutions",
+        "rating": "3.6",
+        "reviews": "9.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vY29ubmVxdC1idXNpbmVzcy1zb2x1dGlvbnMtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Bandhan Bank",
+        "rating": "3.7",
+        "reviews": "9.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYmFuZGhhbi1iYW5rLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Mphasis",
+        "rating": "3.3",
+        "reviews": "9.6k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vbXBoYXNpcy1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Yes Bank",
+        "rating": "3.7",
+        "reviews": "9.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28veWVzLWJhbmstb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Tata Steel",
+        "rating": "4.0",
+        "reviews": "9.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vdGF0YS1zdGVlbC1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Muthoot Fincorp",
+        "rating": "4.5",
+        "reviews": "9.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vbXV0aG9vdC1maW5jb3JwLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Quess",
+        "rating": "3.8",
+        "reviews": "8.9k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vcXVlc3Mtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Startek",
+        "rating": "3.1",
+        "reviews": "8.9k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vc3RhcnRlay1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Asian Paints",
+        "rating": "3.9",
+        "reviews": "8.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYXNpYW4tcGFpbnRzLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Paytm",
+        "rating": "3.2",
+        "reviews": "8.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vcGF5dG0tb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "UltraTech Cement",
+        "rating": "4.1",
+        "reviews": "8.6k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vdWx0cmF0ZWNoLWNlbWVudC1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Maruti Suzuki",
+        "rating": "4.2",
+        "reviews": "8.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vbWFydXRpLXN1enVraS1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Shriram Finance",
+        "rating": "4.0",
+        "reviews": "8.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vc2hyaS1yYW0tZmluYW5jZS1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Sutherland Global Services",
+        "rating": "3.4",
+        "reviews": "8.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vc3V0aGVybGFuZC1nbG9iYWwtc2VydmljZXMtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Bajaj Finance",
+        "rating": "3.9",
+        "reviews": "8.3k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYmFqYWotZmFpbmFuY2Utb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "EXL Service",
+        "rating": "3.6",
+        "reviews": "8.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZXhsLXNlcnZpY2Utb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Ericsson",
+        "rating": "4.0",
+        "reviews": "8.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZXJpY3Nzb24tb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Samsung",
+        "rating": "3.9",
+        "reviews": "8.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vc2Ftc3VuZy1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Cipla",
+        "rating": "4.1",
+        "reviews": "8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vY2lwbGEtcGhhcm1hY2V1dGljYWwtbHRkLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Wells Fargo",
+        "rating": "3.7",
+        "reviews": "7.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vd2VsbHMtZmFyZ28tb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Dr. Reddy's",
+        "rating": "4.0",
+        "reviews": "7.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZHItZG90LXJlZGR5cy1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "HGS",
+        "rating": "3.8",
+        "reviews": "7.4k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaGluZHVqYS1nbG9iYWwtc29sdXRpb25zLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "ICICI Prudential Life Insurance",
+        "rating": "4.0",
+        "reviews": "7.3k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaWNpY2ktcHJ1ZGVudGlhbC1saWZlLWluc3VyYW5jZS1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "Optum Global Solutions",
+        "rating": "4.0",
+        "reviews": "7.3k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vb3B0dW0tZ2xvYmFsLXNvbHV0aW9ucy1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "JPMorgan Chase & Co.",
+        "rating": "3.8",
+        "reviews": "7.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vanAtbW9yZ2FuLWNoYXNlLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Amazon Development Centre India",
+        "rating": "3.9",
+        "reviews": "7.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vYW1hem9uLWRldmVsb3BtZW50LWNlbnRyZS1pbmRpYS1wdnQtbHRkLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Delhivery",
+        "rating": "3.8",
+        "reviews": "7.2k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZGVsaGl2ZXJ5LW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Jana Small Finance Bank",
+        "rating": "3.8",
+        "reviews": "7.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vamFuYS1zbWFsbC1maW5hbmNlLWJhbmstb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Sun Pharmaceutical Industries",
+        "rating": "4.1",
+        "reviews": "7.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vc3VuLXBoYXJtYWNldXRpY2FsLWluZHVzdHJpZXMtb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "JSW Steel",
+        "rating": "3.9",
+        "reviews": "7.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vanN3LXN0ZWVsLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Hexaware Technologies",
+        "rating": "3.5",
+        "reviews": "7.1k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaGV4YXdhcmUtdGVjaG5vbG9naWVzLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "L&T Construction",
+        "rating": "4.0",
+        "reviews": "7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vbC1hbmQtdC1jb25zdHJ1Y3Rpb24tb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Lupin",
+        "rating": "4.1",
+        "reviews": "6.9k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vbHVwaW4tb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "Zydus Lifesciences",
+        "rating": "4.0",
+        "reviews": "6.9k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28venlkdXMtY2FkaWxhLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Hindustan Unilever",
+        "rating": "4.2",
+        "reviews": "6.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaGluZHVzdGFuLXVuaWxldmVyLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Equitas Small Finance Bank",
+        "rating": "4.3",
+        "reviews": "6.8k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZXF1aXRhcy1zbWFsbC1maW5hbmNlLWJhbmstb3JpZ2luYWwuanBn.webp"
+    },
+    {
+        "name": "KPMG India",
+        "rating": "3.4",
+        "reviews": "6.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28va3BtZy1pbmRpYS1vcmlnaW5hbC5qcGc.webp"
+    },
+    {
+        "name": "ITC",
+        "rating": "3.9",
+        "reviews": "6.7k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vaXRjLW9yaWdpbmFsLmpwZw.webp"
+    },
+    {
+        "name": "Ekart Logistics",
+        "rating": "3.9",
+        "reviews": "6.6k",
+        "logo_url": "https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vZWthcnQtbG9naXN0aWNzLW9yaWdpbmFsLmpwZw.webp"
+    }
+]

@@ -1,0 +1,6 @@
+Name: John Doe
+Email: john@example.com
+Skills: Python, Machine Learning, Web Development
+Experience: 3 years at ABC Corp as a Data Scientist
+Education: B.Sc. in Computer Science from XYZ University
+Projects: Portfolio website, Chatbot, Data Analysis projects
